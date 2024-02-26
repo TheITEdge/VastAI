@@ -1,3 +1,9 @@
+
+
+#https://openart.ai/workflows/5l3RcKm6IMo4m8aVcWnF
+#https://openart.ai/workflows/18UZFMnpHBz41REGv7rx
+
+
 cd /workspace
 python -s -m pip install segment_anything omegaconf
 
